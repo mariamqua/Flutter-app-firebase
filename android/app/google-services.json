@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639901593380",
+    "firebase_url": "https://flutter-co-location-cba5f.firebaseio.com",
+    "project_id": "flutter-co-location-cba5f",
+    "storage_bucket": "flutter-co-location-cba5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639901593380:android:69077699663a938ef88db1",
+        "android_client_info": {
+          "package_name": "com.example.ColocApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639901593380-h1j64b43q8vhdnce1ahpq6ad7sssso6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxv_RC3gN5G2RiUYZy7uyZWY3s9qVJbqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639901593380-h1j64b43q8vhdnce1ahpq6ad7sssso6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
